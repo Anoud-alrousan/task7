@@ -1,0 +1,204 @@
+/*.banner .btn1{
+  background-color: rgb(186, 35, 196);
+    color: #fff;
+}
+.play-btn{
+    width: 20px;
+    margin-left: 30px;
+    background-color: rgb(186, 54, 212);
+    border: 0;
+}
+.banner a{
+    color: black;
+    text-decoration: none;
+}
+.banner {
+    position: relative;
+    padding-bottom: 20px; 
+    background-color: rgb(244, 230, 245);
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color:  rgb(186, 54, 212);
+    padding: 10px 0;
+    color: #fff;
+}
+.search{
+    background-color: rgb(244, 230, 245);
+}
+.form-control {
+    width: 400px; 
+    height: 40px; 
+    font-size: 14px; 
+    padding: 5px; 
+}
+.btn2{
+    background-color: rgb(186, 35, 196);
+    color: #fff; 
+}*/
+
+.navbar{
+    background-color: rgb(253, 240, 255);
+}
+.navbar .btn1{
+     
+    height: 35px;
+    width: 100px;
+    background-color:transparent ;
+    color: black;
+    outline:none;
+    border: 1px solid rgb(186, 35, 196) ;
+    border-radius: 5px;
+}
+.navbar .btn1:hover{
+background-color:  rgb(186, 35, 196) ;
+    transition: 0.5s;
+    color: black;
+}
+.navbar .btn2{
+    height: 35px;
+    width: 120px;
+    background-color:  rgb(186, 35, 196) ;
+    color: white;
+    outline:none;
+    border: none ;
+    border-radius: 5px;
+}
+.banner{
+    background-color: rgb(253, 240, 255);
+}
+.banner .btn1{
+    height: 35px;
+    width: 120px;
+    background-color:  rgb(186, 35, 196) ;
+    color: white;
+    outline:none;
+    border: none ;
+    border-radius: 5px;
+}
+.play-btn{
+    width: 20px;
+    margin-left: 30px;
+    background-color: rgb(186, 54, 212);
+    border: 0;
+    border-radius: 50%;
+}
+.banner a{
+    color: black;
+   
+    
+}
+.footer{
+    background-color: rgb(186, 35, 196)  ;
+}
+
+.search{
+    background-color: rgb(253, 240, 255);
+    font-family:  Arial, sans-serif;
+
+}
+.search .btn2{
+    height: 35px;
+    width: 120px;
+    background-color:  rgb(186, 35, 196) ;
+    color: white;
+    outline:none;
+    border: none ;
+    border-radius: 5px;
+}
+.form-control {
+    width: 400px; 
+    height: 40px; 
+    font-size: 14px; 
+    padding: 5px; 
+    border: 0;
+}
+.o2{
+    font-size: 12px;
+}
+
+
+.proudct{
+    background-color: rgb(186, 35, 196)  ;
+
+}
+.card-body .btn2{
+    height: 15px;
+    width: 100px;
+    background-color:  rgb(223, 197, 224) ;
+    color: black;
+    outline:none;
+    border: none ;
+    border-radius: 5px;
+    font-size: 10px;
+}
+.card-body .btn3{
+    height: 15px;
+    width: 30px;
+    background-color:  rgb(186, 35, 196)  ;
+    color: black;
+    outline:none;
+    border: none ;
+    border-radius: 0;
+    font-size: 10px;
+    margin-left: 50px;
+}
+.pa2{
+    font-size: 11px;
+}
+.hr{
+    color: rgb(186, 35, 196);
+}
+.person{
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    margin-left: 30px;
+  
+}
+.cards{
+    border-radius: 20%;
+}
+.teacher{
+    background-color: rgb(253, 240, 255);
+}
+.h21{
+    text-align: left;
+}
+.perks {
+    
+    padding: 0;
+    margin-left: 10px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    column-gap: 40px; 
+    text-align: left;
+}
+.perks li::marker {
+    color: rgb(186, 35, 196)  ;
+}
+.o1{
+    margin-left: 100px;
+}
+.teacher .btn2{
+    height: 35px;
+    width: 250px;
+    background-color:  rgb(186, 35, 196) ;
+    color: white;
+    outline:none;
+    border: none ;
+    border-radius: 5px;
+}
+.students{
+    background-color: rgb(186, 35, 196)  ;
+}
+.person2{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    margin-left: 10px;
+}
